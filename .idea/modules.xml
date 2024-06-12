@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Calculator_app.iml" filepath="$PROJECT_DIR$/.idea/Calculator_app.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Tkinter/.idea/Tkinter.iml" filepath="$USER_HOME$/Desktop/Tkinter/.idea/Tkinter.iml" />
     </modules>
   </component>
 </project>
